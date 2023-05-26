@@ -1,0 +1,77 @@
+
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand{
+
+    font-weight: 500;
+    font-size: 300px;
+}
+
+.titulo-main{
+
+    font-weight: 500px;
+    font-size: 80px;
+    margin: 2rem;
+    padding: 2rem;
+}
+
+.fotoperfil{
+    margin: 2rem;
+    padding: 2rem;
+    width: 500px;
+    height: 600px;
+}
+.titulo-aboutme {
+    font-weight: 500;
+    font-size: 50px;
+}
+.texto-aboutme{
+    font-weight: 300;
+    font-size: 30px;
+}
+.titulo-educaction{
+    font-weight: 500;
+    font-size: 50px;
+}
+
+.text-education{
+    font-weight: 300;
+    font-size: 25px;
+}
+.titulo-experience{
+    font-weight: 500;
+    font-size: 50px;
+}
+.table{
+    font-weight: 300;
+    font-size: 25px;
+}
+.row{
+    margin: 2rem;
+    padding: 2rem;
+}
+
+.titulo-resume{
+    font-weight: 500;
+    font-size: 50px;
+}
+.card-title{
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.card-text{
+    font-weight: 300;
+    font-size: 20px;
+}
+.footer-text{
+
+    font-weight: 500;
+    font-size: 2rem;
+
+}
